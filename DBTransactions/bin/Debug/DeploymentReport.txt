@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Account] (Table)
+       [dbo].[Log] (Table)
+       [dbo].[FK_LOG_ORIGACCT] (Foreign Key)
+       [dbo].[FK_LOG_RECACCT] (Foreign Key)
+       [dbo].[CHK_CREDITLIMIT] (Check Constraint)
+       [dbo].[CHK_BALANCE] (Check Constraint)
+
+** Supporting actions

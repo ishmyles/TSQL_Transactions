@@ -1,0 +1,6 @@
+C:\Users\ishmyles\Desktop\TSQL_Transactions\DBTransactions\bin\Debug\DBTransactions.dacpac
+C:\Users\ishmyles\Desktop\TSQL_Transactions\DBTransactions\bin\Debug\DBTransactions.dll
+C:\Users\ishmyles\Desktop\TSQL_Transactions\DBTransactions\bin\Debug\DBTransactions.pdb
+C:\Users\ishmyles\Desktop\TSQL_Transactions\DBTransactions\obj\Debug\DBTransactions.sqlprojResolveAssemblyReference.cache
+C:\Users\ishmyles\Desktop\TSQL_Transactions\DBTransactions\obj\Debug\DBTransactions.dll
+C:\Users\ishmyles\Desktop\TSQL_Transactions\DBTransactions\obj\Debug\DBTransactions.pdb
